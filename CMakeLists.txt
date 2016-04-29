@@ -68,3 +68,4 @@ install(FILES ${SOEM_HEADERS} ${OSAL_HEADERS} ${OSHW_HEADERS} DESTINATION ${SOEM
 add_subdirectory(test/linux/slaveinfo)
 add_subdirectory(test/linux/eepromtool)
 add_subdirectory(test/linux/simple_test)
+add_subdirectory(swig)
